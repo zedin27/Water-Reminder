@@ -3,4 +3,9 @@ Quick and easy script that helps people to drink water after long period of work
 
 # Inspiration
 ### 42
-### A friend of mine
+#### A friend of mine
+
+# Little demo
+
+# Purpose
+So people drink water obviously :)
